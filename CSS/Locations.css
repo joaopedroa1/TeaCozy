@@ -1,0 +1,28 @@
+.Locations{
+    background-image: url("../Imagens/fundos.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    width: 75%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+.Local{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: 50px;
+    width: 0px;
+    height: 00px;
+    margin-bottom: auto;
+}
+.Caixote{ 
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+    width: 300px;
+    height: 400px;
+}

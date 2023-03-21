@@ -1,0 +1,22 @@
+.Fundo{
+    background-image: url("../Imagens/Fundo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    height: 900px;
+    width: 75%;
+    margin: auto;
+    flex-direction: column;
+}
+.Caixa{
+    width: 1600px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -20px;
+}
+.Caixa2{
+    width: 1200px;
+    height:75px;
+}

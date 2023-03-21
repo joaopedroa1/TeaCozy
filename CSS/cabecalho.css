@@ -1,0 +1,29 @@
+.Logo{
+    margin-left: 10px;
+    height: 50px;
+    width: 150px;
+    margin-right: 1200px;
+}
+.Cabecalho{
+    color: grey;
+    display: flex;
+    font-size: 22px;
+    align-items: center;
+    justify-content: space-around;
+}
+.C2{
+    text-decoration: underline;
+}
+.linha{
+    width: 101%;
+    border-bottom: 1px solid seashell;
+}
+.Fundo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.FotoFundo{
+    width: 2400px;
+    height: 1400px;
+}

@@ -1,0 +1,12 @@
+@import "cabecalho.css";
+@import "Fundo.css";
+@import "Mensal.css";
+@import "FotosdeCima.css";
+@import "FotosdeBaixo.css";
+@import "Locations.css";
+*{
+    background-color: black;
+    font-size: 22px;
+    font-family: Helvetica;
+    color: seashell;
+}

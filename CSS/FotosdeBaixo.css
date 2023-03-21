@@ -1,0 +1,6 @@
+.FotosdeBaixo{
+    display: flex;
+    justify-content: center;
+    gap: 45px;
+    height: 375px;
+}
